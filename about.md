@@ -13,3 +13,5 @@ See for toggle button in search filters! (where tags select goes)
 mod isn't related to geode team and stuff, u know
 
 uses [api.geode-sdk.org](https://geode-sdk.github.io/server/)/v1
+
+tip: to update installed mod with unverified new version you should delete installed (then geode ui let you download new ver)

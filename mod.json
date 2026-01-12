@@ -1,5 +1,5 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.10.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,26 +8,14 @@
 	},
 	"id": "user95401.unverified_mods",
 	"name": "Unverified Mods",
-	"version": "v1.5.2",
-	"developer": "user95401",
+	"version": "v1.5.3",
+	"developer": "LatterRarity70",
 	"description": "Make you able to see unverified mods.",
 	"links": {
 		"community": "https://discord.com/invite/9e43WMKzhp",
 		"homepage": "https://geode-sdk.org/mods?status=pending&per_page=10&sort=downloads",
 		"source": "https://github.com/user95401/Unverified-Mods"
 	},
-	"resources": {
-		"sprites": [
-			"resources/sprites/*.png"
-		]
-	},
-	"dependencies": [
-		{
-			"id": "geode.node-ids",
-			"version": ">=v1.13.1",
-			"importance": "required"
-		}
-	],
 	"settings": {
 		"Main prarms": {
 			"type": "title",
